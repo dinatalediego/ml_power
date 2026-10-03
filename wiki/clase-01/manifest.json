@@ -1,0 +1,207 @@
+{
+  "class": 1,
+  "source": "Preprocesamiento de datos para aprendizaje no supervisado.pptx",
+  "slides": 33,
+  "stories": 99,
+  "data": "synthetic",
+  "pages": [
+    {
+      "slide": 1,
+      "title": "Preprocesamiento como parte del modelo",
+      "file": "diapositiva-01.md",
+      "stories": 3
+    },
+    {
+      "slide": 2,
+      "title": "Mapa de las seis decisiones",
+      "file": "diapositiva-02.md",
+      "stories": 3
+    },
+    {
+      "slide": 3,
+      "title": "La distancia decide los grupos",
+      "file": "diapositiva-03.md",
+      "stories": 3
+    },
+    {
+      "slide": 4,
+      "title": "Entrada al bloque de faltantes",
+      "file": "diapositiva-04.md",
+      "stories": 3
+    },
+    {
+      "slide": 5,
+      "title": "MCAR, MAR y MNAR",
+      "file": "diapositiva-05.md",
+      "stories": 3
+    },
+    {
+      "slide": 6,
+      "title": "El costo de eliminar filas",
+      "file": "diapositiva-06.md",
+      "stories": 3
+    },
+    {
+      "slide": 7,
+      "title": "La media atenúa la correlación",
+      "file": "diapositiva-07.md",
+      "stories": 3
+    },
+    {
+      "slide": 8,
+      "title": "KNN para imputar con vecinos",
+      "file": "diapositiva-08.md",
+      "stories": 3
+    },
+    {
+      "slide": 9,
+      "title": "MICE y la incertidumbre",
+      "file": "diapositiva-09.md",
+      "stories": 3
+    },
+    {
+      "slide": 10,
+      "title": "La ausencia como variable",
+      "file": "diapositiva-10.md",
+      "stories": 3
+    },
+    {
+      "slide": 11,
+      "title": "Elegir tratamiento de faltantes",
+      "file": "diapositiva-11.md",
+      "stories": 3
+    },
+    {
+      "slide": 12,
+      "title": "Entrada al bloque de atípicos",
+      "file": "diapositiva-12.md",
+      "stories": 3
+    },
+    {
+      "slide": 13,
+      "title": "Influencia del atípico en el centroide",
+      "file": "diapositiva-13.md",
+      "stories": 3
+    },
+    {
+      "slide": 14,
+      "title": "Isolation Forest",
+      "file": "diapositiva-14.md",
+      "stories": 3
+    },
+    {
+      "slide": 15,
+      "title": "LOF y anomalías locales",
+      "file": "diapositiva-15.md",
+      "stories": 3
+    },
+    {
+      "slide": 16,
+      "title": "Isolation Forest frente a LOF",
+      "file": "diapositiva-16.md",
+      "stories": 3
+    },
+    {
+      "slide": 17,
+      "title": "Entrada al bloque de escala",
+      "file": "diapositiva-17.md",
+      "stories": 3
+    },
+    {
+      "slide": 18,
+      "title": "Z-score, min-max y escalado robusto",
+      "file": "diapositiva-18.md",
+      "stories": 3
+    },
+    {
+      "slide": 19,
+      "title": "Whitening y Mahalanobis",
+      "file": "diapositiva-19.md",
+      "stories": 3
+    },
+    {
+      "slide": 20,
+      "title": "La geometría del whitening",
+      "file": "diapositiva-20.md",
+      "stories": 3
+    },
+    {
+      "slide": 21,
+      "title": "Entrada al bloque de transformaciones",
+      "file": "diapositiva-21.md",
+      "stories": 3
+    },
+    {
+      "slide": 22,
+      "title": "Box-Cox y su jacobiano",
+      "file": "diapositiva-22.md",
+      "stories": 3
+    },
+    {
+      "slide": 23,
+      "title": "Estimar lambda sin mirar el futuro",
+      "file": "diapositiva-23.md",
+      "stories": 3
+    },
+    {
+      "slide": 24,
+      "title": "Yeo-Johnson admite cualquier signo",
+      "file": "diapositiva-24.md",
+      "stories": 3
+    },
+    {
+      "slide": 25,
+      "title": "Separar escala de forma",
+      "file": "diapositiva-25.md",
+      "stories": 3
+    },
+    {
+      "slide": 26,
+      "title": "Entrada al bloque de categorías",
+      "file": "diapositiva-26.md",
+      "stories": 3
+    },
+    {
+      "slide": 27,
+      "title": "El peso oculto del one-hot",
+      "file": "diapositiva-27.md",
+      "stories": 3
+    },
+    {
+      "slide": 28,
+      "title": "Gower y datos mixtos",
+      "file": "diapositiva-28.md",
+      "stories": 3
+    },
+    {
+      "slide": 29,
+      "title": "Entrada al bloque de lotes y fuga",
+      "file": "diapositiva-29.md",
+      "stories": 3
+    },
+    {
+      "slide": 30,
+      "title": "Efectos de lote y confusión",
+      "file": "diapositiva-30.md",
+      "stories": 3
+    },
+    {
+      "slide": 31,
+      "title": "Fuga de información",
+      "file": "diapositiva-31.md",
+      "stories": 3
+    },
+    {
+      "slide": 32,
+      "title": "Pipeline reproducible",
+      "file": "diapositiva-32.md",
+      "stories": 3
+    },
+    {
+      "slide": 33,
+      "title": "Decisiones para llevar al negocio",
+      "file": "diapositiva-33.md",
+      "stories": 3
+    }
+  ]
+}
